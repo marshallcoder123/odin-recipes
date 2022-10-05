@@ -1,0 +1,22 @@
+h1 {
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+}
+
+body {
+    background-color: gray;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h3 {
+    text-decoration: underline;
+}
